@@ -1,5 +1,5 @@
 # Airbnb_Inpact_Of_Reugulations!
-[Paris Airbnb View](cliff-top-residence1-1100x733.jpg)
+![Stunning Paris Airbnb](Air.jpg)
 
 This project explores the evolution of the Airbnb market in Paris, focusing on how regulations, locality trends, and pricing dynamics have influenced both **host participation** and **customer demand**.
 
