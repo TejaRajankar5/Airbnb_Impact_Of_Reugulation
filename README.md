@@ -94,7 +94,7 @@ Here are some key visualizations from the analysis:
   ![Price by Locality](price_locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
-  ![Regulation Impact](images/regulation_impact.png)
+  ![Regulation Impact](regulation_impact.png)
   
 ---
 
