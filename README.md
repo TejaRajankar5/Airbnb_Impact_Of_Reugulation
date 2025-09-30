@@ -91,7 +91,7 @@ Here are some key visualizations from the analysis:
   ![Listings Growth](images/listings_growth.png)
 
 * **Average Price by Locality**
-  ![Price by Locality](images/price_locality.png)
+  ![Price by Locality](price_locality.png)
 
 * **Impact of 2017 Regulation on Host Entries**
   ![Regulation Impact](images/regulation_impact.png)
